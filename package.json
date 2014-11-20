@@ -1,0 +1,27 @@
+{
+  "name": "bst",
+  "version": "1.0.0",
+  "description": "BST demo",
+  "main": "mocha-test.js",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajhurliman/BST.git"
+  },
+  "author": "ajHurliman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajhurliman/BST/issues"
+  },
+  "homepage": "https://github.com/ajhurliman/BST"
+}
